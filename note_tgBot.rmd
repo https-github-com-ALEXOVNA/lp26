@@ -1,10 +1,12 @@
 # https://docs.python-telegram-bot.org/en/stable/telegram.ext.html
+# https://github.com/ALEXOVNA/-ProviPrice_bot.git
 
 from telegram.ext import Updater
 def main():
     updBot = Updater(
         token="5519145724:AAHT7lixHUTwjBebiejGjr8Ur28doHX9grY",
         use_context=True)
+
     # запуск опросника обновлений
     updBot.start_polling(poll_interval=2.0)
     # Run the bot until you press Ctrl-C
@@ -16,6 +18,8 @@ main()
 Сервер: t1.learn.python.ru:1080 Логин: learn Пароль: python
 Сервер: t2.learn.python.ru:1080 Логин: learn Пароль: python
 Сервер: t3.learn.python.ru:1080 Логин: learn Пароль: python
+
+
 
 
 
