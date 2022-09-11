@@ -6,5 +6,6 @@
     <mapping directory="$PROJECT_DIR$/les-1.w-1/functional" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/les-1.w-1/mytgbot" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/les-2.w-2/maker_png/script" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/les-2.w-2/maker_png/script/lp26" vcs="Git" />
   </component>
 </project>
