@@ -1,5 +1,5 @@
-# lp26
-learn python course. 26 stream
+# Learn Python course - 26 stream
+<p>This repository of the student's LP -- <a href="https://github.com/ALEXOVNA">Alexovna.maker</a></p> 
 
 
 <table>
